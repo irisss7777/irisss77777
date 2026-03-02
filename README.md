@@ -1,4 +1,4 @@
-# Open to Work
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge)
 
 Здравствуйте! 👋
 
@@ -7,10 +7,30 @@
 ---
 
 ## 🛠 Стек и навыки
-Unity (iOS/Android/PC/WebGL) | C# | Zenject | VContainer | MessagePipe | UniTask | UniRx
-DOTween | UGUI | UIToolkit | VFX Graph | Particle System | Addressables | Firebase
-Photon PUN 2 | .NET | WPF | Node.js | TypeScript | gRPC | WebSocket | Git | CI/CD
 
+![Unity](https://img.shields.io/badge/Unity-blue?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=c-sharp)
+![Zenject](https://img.shields.io/badge/Zenject-blue?style=flat)
+![VContainer](https://img.shields.io/badge/VContainer-blue?style=flat)
+![MessagePipe](https://img.shields.io/badge/MessagePipe-blue?style=flat)
+![UniTask](https://img.shields.io/badge/UniTask-blue?style=flat)
+![UniRx](https://img.shields.io/badge/UniRx-blue?style=flat)
+![DOTween](https://img.shields.io/badge/DOTween-blue?style=flat)
+![UGUI](https://img.shields.io/badge/UGUI-blue?style=flat)
+![UIToolkit](https://img.shields.io/badge/UIToolkit-blue?style=flat)
+![VFX Graph](https://img.shields.io/badge/VFX%20Graph-blue?style=flat)
+![Particle System](https://img.shields.io/badge/Particle%20System-blue?style=flat)
+![Addressables](https://img.shields.io/badge/Addressables-blue?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-blue?style=flat&logo=firebase)
+![Photon PUN 2](https://img.shields.io/badge/Photon%20PUN%202-blue?style=flat)
+![.NET](https://img.shields.io/badge/.NET-blue?style=flat&logo=dotnet)
+![WPF](https://img.shields.io/badge/WPF-blue?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-blue?style=flat&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![gRPC](https://img.shields.io/badge/gRPC-blue?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-blue?style=flat)
+![Git](https://img.shields.io/badge/Git-blue?style=flat&logo=git)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=flat)
 
 **Ключевые компетенции:**
 - Чистая архитектура, DI, многопоточность
@@ -51,7 +71,6 @@ Photon PUN 2 | .NET | WPF | Node.js | TypeScript | gRPC | WebSocket | Git | CI/C
 
 - **Telegram:** [@Irbis_ffff](https://t.me/Irbis_ffff)
 - **Email:** maxzelenin.005@gmail.com
-- **GitHub:** [github.com/irisss777](https://github.com/irisss777)
 
 **Рассматриваю:** полную занятость / проекты (удалённо, гибрид, в офисе). Готов к переезду и командировкам.
 
