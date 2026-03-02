@@ -7,9 +7,9 @@
 ---
 
 ## 🛠 Стек и навыки
-Unity (iOS/Android/PC/WebGL) | C# | Zenject / VContainer | MessagePipe | UniTask / UniRx
-DOTween | UGUI / UIToolkit | VFX Graph / Particle System | Addressables | Firebase
-Photon PUN 2 | .NET / WPF | Node.js / TypeScript | gRPC | WebSocket | Git | CI/CD
+Unity (iOS/Android/PC/WebGL) | C# | Zenject | VContainer | MessagePipe | UniTask | UniRx
+DOTween | UGUI | UIToolkit | VFX Graph | Particle System | Addressables | Firebase
+Photon PUN 2 | .NET | WPF | Node.js | TypeScript | gRPC | WebSocket | Git | CI/CD
 
 
 **Ключевые компетенции:**
